@@ -1,0 +1,95 @@
+Total players with URL: 2029
+Saving progress at 50/2029...
+Saving progress at 100/2029...
+Saving progress at 150/2029...
+[UPDATE] Marcus Bettinelli: 500 Bin € -> 0.50 Milyon €
+Saving progress at 200/2029...
+[UPDATE] Rhys Williams: 500 Bin € -> 0.50 Milyon €
+[UPDATE] Brandon Austin: 500 Bin € -> 0.50 Milyon €
+Saving progress at 250/2029...
+[UPDATE] Djed Spence: 8.00 Milyon € -> 32.00 Milyon €
+[UPDATE] Tom Heaton: 150 Bin € -> 0.15 Milyon €
+Saving progress at 300/2029...
+[UPDATE] Mark Gillespie: 150 Bin € -> 0.15 Milyon €
+[UPDATE] John Ruddy: 100 Bin € -> 0.10 Milyon €
+[UPDATE] Alex Murphy: 300 Bin € -> 0.30 Milyon €
+[UPDATE] Willy Boly: 800 Bin € -> 0.80 Milyon €
+[UPDATE] Zach Abbott: 300 Bin € -> 0.30 Milyon €
+Saving progress at 350/2029...
+[UPDATE] Jason Steele: 750 Bin € -> 0.75 Milyon €
+[UPDATE] Tom McGill: 500 Bin € -> 0.50 Milyon €
+[UPDATE] James Milner: 750 Bin € -> 0.75 Milyon €
+Saving progress at 400/2029...
+[UPDATE] Remi Matthews: 300 Bin € -> 0.30 Milyon €
+[UPDATE] Rio Cardines: 300 Bin € -> 0.30 Milyon €
+[UPDATE] Nathaniel Clyne: 500 Bin € -> 0.50 Milyon €
+[UPDATE] Will Dennis: 350 Bin € -> 0.35 Milyon €
+[UPDATE] Adam Smith: 500 Bin € -> 0.50 Milyon €
+Saving progress at 450/2029...
+[UPDATE] Matthew Cox: 800 Bin € -> 0.80 Milyon €
+[UPDATE] Ellery Balcombe: 400 Bin € -> 0.40 Milyon €
+[EXCEPTION] ClientException with SocketException: Operation timed out (OS Error: Operation timed out, errno = 60), address = www.transfermarkt.com.tr, port = 57349, uri=https://www.transfermarkt.com.tr/ethan-pinnock/profil/spieler/442248 for https://www.transfermarkt.com.tr/ethan-pinnock/profil/spieler/442248
+[UPDATE] Paris Maghoma: 800 Bin € -> 0.80 Milyon €
+[UPDATE] Myles Peart-Harris: 900 Bin € -> 0.90 Milyon €
+[UPDATE] Harry Tyrer: 400 Bin € -> 0.40 Milyon €
+[UPDATE] Tom King: 150 Bin € -> 0.15 Milyon €
+[UPDATE] Séamus Coleman: 300 Bin € -> 0.30 Milyon €
+Saving progress at 500/2029...
+[UPDATE] Lukasz Fabianski: 250 Bin € -> 0.25 Milyon €
+[UPDATE] Blondy Nna Noukeu: 150 Bin € -> 0.15 Milyon €
+[UPDATE] Simon Moore: 100 Bin € -> 0.10 Milyon €
+[UPDATE] Joe Anderson: 150 Bin € -> 0.15 Milyon €
+Saving progress at 550/2029...
+[UPDATE] Jay Matete: 300 Bin € -> 0.30 Milyon €
+[UPDATE] Harrison Jones: 150 Bin € -> 0.15 Milyon €
+[UPDATE] Ian Poveda: 900 Bin € -> 0.90 Milyon €
+[UPDATE] Tom Cairney: 750 Bin € -> 0.75 Milyon €
+Saving progress at 600/2029...
+[UPDATE] Tawanda Chirewa: 500 Bin € -> 0.50 Milyon €
+[UPDATE] Nathan Fraser: 600 Bin € -> 0.60 Milyon €
+[UPDATE] Mateus Mané: 250 Bin € -> 0.25 Milyon €
+[UPDATE] Karl Darlow: 200 Bin € -> 0.20 Milyon €
+[UPDATE] Alex Cairns: 75 Bin € -> 0.07 Milyon €
+[UPDATE] Sam Byram: 600 Bin € -> 0.60 Milyon €
+[UPDATE] Sam Chambers: 200 Bin € -> 0.20 Milyon €
+[UPDATE] Martin Dúbravka: 750 Bin € -> 0.75 Milyon €
+[UPDATE] Václav Hladký: 200 Bin € -> 0.20 Milyon €
+Saving progress at 650/2029...
+[UPDATE] Enock Agyei: 600 Bin € -> 0.60 Milyon €
+[UPDATE] Ashley Barnes: 200 Bin € -> 0.20 Milyon €
+Saving progress at 700/2029...
+[UPDATE] Wojciech Szczesny: 900 Bin € -> 0.90 Milyon €
+Saving progress at 750/2029...
+[UPDATE] Unai Egiluz: 600 Bin € -> 0.60 Milyon €
+Saving progress at 800/2029...
+[UPDATE] Pau Cabanes: 800 Bin € -> 0.80 Milyon €
+[UPDATE] Unai Marrero: 600 Bin € -> 0.60 Milyon €
+[UPDATE] Álvaro Odriozola: 800 Bin € -> 0.80 Milyon €
+[UPDATE] Adrián: 400 Bin € -> 0.40 Milyon €
+Saving progress at 850/2029...
+[UPDATE] Cristian Rivero: 100 Bin € -> 0.10 Milyon €
+[UPDATE] Vladyslav Krapyvtsov: 400 Bin € -> 0.40 Milyon €
+[UPDATE] Juan Carlos: 100 Bin € -> 0.10 Milyon €
+[UPDATE] David López: 800 Bin € -> 0.80 Milyon €
+[UPDATE] Lass Kourouma: 500 Bin € -> 0.50 Milyon €
+Saving progress at 900/2029...
+[UPDATE] Cristhian Stuani: 900 Bin € -> 0.90 Milyon €
+[UPDATE] Iván Villar: 900 Bin € -> 0.90 Milyon €
+[UPDATE] Marc Vidal: 300 Bin € -> 0.30 Milyon €
+[UPDATE] Mihailo Ristic: 800 Bin € -> 0.80 Milyon €
+[UPDATE] Franco Cervi: 700 Bin € -> 0.70 Milyon €
+[UPDATE] Raffaele Di Gennaro: 300 Bin € -> 0.30 Milyon €
+Saving progress at 950/2029...
+[UPDATE] Carlo Pinsoglio: 200 Bin € -> 0.20 Milyon €
+[UPDATE] Lorenzo Torriani: 500 Bin € -> 0.50 Milyon €
+Saving progress at 1000/2029...
+Saving progress at 1050/2029...
+Saving progress at 1100/2029...
+Saving progress at 1150/2029...
+Saving progress at 1200/2029...
+Saving progress at 1250/2029...
+Saving progress at 1300/2029...
+Saving progress at 1350/2029...
+[EXCEPTION] ClientException with SocketException: Connection reset by peer (OS Error: Connection reset by peer, errno = 54), address = www.transfermarkt.com.tr, port = 60088, uri=https://www.transfermarkt.com.tr/marko-rog/profil/spieler/317482 for https://www.transfermarkt.com.tr/marko-rog/profil/spieler/317482
+[EXCEPTION] ClientException with SocketException: Operation timed out (OS Error: Operation timed out, errno = 60), address = www.transfermarkt.com.tr, port = 60117, uri=https://www.transfermarkt.com.tr/nicolo-cavuoti/profil/spieler/701842 for https://www.transfermarkt.com.tr/nicolo-cavuoti/profil/spieler/701842
+Saving progress at 1400/2029...
