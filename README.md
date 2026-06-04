@@ -8,7 +8,7 @@ Bu proje; mobil oyun geliştirme (**Flutter**) ve veri mühendisliği/otomasyonu
 
 | Ana Menü & Mod Seçimi | Oyun Ekranı | Dünya Sıralaması |
 | --- | --- | --- |
-| ![Screen 1](fresim1.png) | _(Buraya oyun ekranı görselini ekleyebilirsiniz)_ | _(Buraya liderlik tablosu görselini ekleyebilirsiniz)_ |
+| ![Screen 1](resim1.png) | _(Buraya oyun ekranı görselini ekleyebilirsiniz)_ | _(Buraya liderlik tablosu görselini ekleyebilirsiniz)_ |
 
 ---
 
