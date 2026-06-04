@@ -6,7 +6,7 @@ Bu proje; mobil oyun geliştirme (**Flutter**) ve veri mühendisliği/otomasyonu
 
 ## 📸 Ekran Görüntüleri / Screenshots
 
-| Ana Menü & Mod Seçimi | Oyun Ekranı | Dünya Sıralaması |
+| Ana Menü & Mod Seçimi | Lig Seçimi | Oyun İçeriği |
 | --- | --- | --- |
 | ![Screen 1](resim1.png) | ![Screen 2](resim2.png) | ![Screen 3](resim3.png) |
 
