@@ -2,6 +2,8 @@
 
 Bu proje; mobil oyun geliştirme (**Flutter**) ve veri mühendisliği/otomasyonu (**Python Web Scraping**) disiplinlerini bir araya getiren dinamik bir futbolcu tahmin oyunudur. Kullanıcılar seçtikleri liglere göre gelen futbolcuların kulüp, mevki, piyasa değeri ve ülke bayrağı ipuçlarını kullanarak futbolcunun kim olduğunu tahmin etmeye çalışırlar.
 
+BATUHAN PAMUK 24010501125
+
 ---
 
 ## 📸 Ekran Görüntüleri / Screenshots
